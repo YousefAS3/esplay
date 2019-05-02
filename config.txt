@@ -1,0 +1,8 @@
+owner=449339893626306563
+prefix=es
+game= esplay
+stayinchannel=true
+songinstatus=false
+token=NTczNTgwMzc2NjkwMTMwOTcz.XMs6cA.AW0H01reM4fRJUOSHvTAkKtylUU
+
+
